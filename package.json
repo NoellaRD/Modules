@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NoellaRD/Modules/issues"
   },
-  "homepage": "https://github.com/NoellaRD/Modules#readme"
+  "homepage": "https://github.com/NoellaRD/Modules#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6"
+  }
 }
